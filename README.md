@@ -35,7 +35,7 @@ Go to https://files.minecraftforge.net/net/minecraftforge/forge/ and find the ve
  Run the file you downloaded and follow the steps it provides and click install client, then click OK. (If you are unable to run the file, follow the Install Java steps.)
 Open Curseforge and open the Minecraft Menu
 
-Create a Custom Profile,be sure to set the Minecraft Version to 1.20.1
+Create a Custom Profile,be sure to set the Minecraft Version to 1.20.1 and the game type to Forage
 
 Once the profile has been installed, hit the 3 dots and navigate to mod folder and wait for the files to open
 
